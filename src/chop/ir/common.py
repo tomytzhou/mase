@@ -53,6 +53,8 @@ MASE_IMPLICIT_FUNCS = [
     "index_select",
     "detach",
     "tensor",
+    # fix roberta
+    "int_1",
 ]
 
 MASE_MODULE_RELATED_FUNCS = [
